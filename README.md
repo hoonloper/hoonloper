@@ -2,6 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=yonghoon-jung&color=blueviolet&)
 ### Hi there 👋
 
+https://img.shields.io/badge/github-yonghoon--jung-red
 
 <!-- 통계를 나타냄 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonghoon-jung&show_icons=true&theme=radical)
