@@ -1,7 +1,7 @@
 <!-- 조회수를 나타냄 -->
 ![](https://komarev.com/ghpvc/?username=yonghoon-jung&color=blueviolet&)
 ### Hi there 👋
-![](https://img.shields.io/badge/Instagram-Hoonloper-ff69b4)
+[![Instagram](https://img.shields.io/badge/Instagram-Hoonloper-ff69b4)](https://img.shields.io/badge/Instagram-Hoonloper-ff69b4)
 
 <!-- 통계를 나타냄 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonghoon-jung&show_icons=true&theme=radical)
