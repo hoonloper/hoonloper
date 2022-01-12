@@ -1,15 +1,5 @@
 ### Hi there 👋
 
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yonghoon-jung&show_icons=true&theme=radical" />
-</a>
-<a>
-  <img align="center" src="https://komarev.com/ghpvc/?username=yonghoon-jung&color=blueviolet&" />
-</a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonghoon-jung)](https://github.com/anuraghazra/github-readme-stats" />
-</a>
-
 <!-- 통계를 나타냄 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonghoon-jung&show_icons=true&theme=radical)
 
