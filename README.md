@@ -2,7 +2,7 @@
   <img align="center" src="https://komarev.com/ghpvc/?username=yonghoon-jung&color=blueviolet&" />
 </a>
 <a href="https://www.instagram.com/yh_j.630/">
-  <img align="center" src="https://img.shields.io/badge/?style=flat&logo=Instagram&Hoonloper-ff69b4" />
+  <img align="center" src="https://img.shields.io/badge/?style=flat&logo=Instagram" />
 </a>
 
 ### Hi there 👋
