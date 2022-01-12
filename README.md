@@ -4,11 +4,8 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://img.shields.io/badge/Instagram-Hoonloper-ff69b4" />
 </a>
-<!-- 조회수를 나타냄 -->
-![](https://komarev.com/ghpvc/?username=yonghoon-jung&color=blueviolet&)
-### Hi there 👋
-[![Instagram](https://img.shields.io/badge/Instagram-Hoonloper-ff69b4)](https://img.shields.io/badge/Instagram-Hoonloper-ff69b4)
 
+### Hi there 👋
 <!-- 통계를 나타냄 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonghoon-jung&show_icons=true&theme=radical)
 
