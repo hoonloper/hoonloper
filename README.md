@@ -9,6 +9,7 @@
 </a>
 
 ### 안녕하세요 👋 Back_End 초보 개발자입니다.
+# 나날이 성장합니다.
 <!-- 통계를 나타냄 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonghoon-jung&show_icons=true&theme=radical)
 
