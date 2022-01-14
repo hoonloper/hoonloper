@@ -8,9 +8,9 @@
   <img align="center" src="https://img.shields.io/badge/Blog-FFCD00?logo=Kakao&logoColor=white" />
 </a>
 
-### 안녕하세요 👋 Back_End 초보 개발자 Hoonloper 입니다.
-# 나날이 성장합니다.
-## 👨‍💻 Backend Engineer
+# 👨‍💻 Backend Engineer
+## 안녕하세요 👋 Back_End 초보 개발자 Hoonloper 입니다.
+### 나날이 성장합니다.
 `Back-End-Devloper`  `JavaScript` `Node.js` `Express.js` `Notion` `Python`
 
 <!-- 통계를 나타냄 -->
