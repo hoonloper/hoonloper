@@ -13,6 +13,10 @@
 ### 나날이 성장하고 있습니다.
 `Back-End-Devloper`  `JavaScript` `Node.js` `Express.js` `Notion` `Python`
 
+#### 일일 목표
+1. 1일 1커밋
+2. 알고리즘 풀이
+
 <!-- 통계를 나타냄 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonghoon-jung&show_icons=true&theme=radical)
 
