@@ -10,10 +10,10 @@
 
 # 👨‍💻 Backend Engineer
 ## 안녕하세요 👋 Back_End 초보 개발자 Hoonloper 입니다.
-### 나날이 성장하고 있습니다.
+### 🌱 성장하는 개발자
 `Back-End-Devloper`  `JavaScript` `Node.js` `Express.js` `Notion` `Python`
 
-#### 일일 목표
+#### 🎯 일일 목표
 1. 1일 1커밋
 2. 알고리즘 풀이
 
