@@ -12,7 +12,7 @@
 ## 안녕하세요 👋 Back_End 개발자 Hoonloper 입니다.
 ### 🌱 성장하는 개발자
 #### 🌈 Skills
-`JavaScript` `Node.js` `Express.js` `Notion` `Python`
+`JavaScript` `Node.js` `Express.js` `Notion` `Python` `AWS EC2`
 
 #### 🎯 일일 목표
 1. 1일 1커밋
