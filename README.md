@@ -18,6 +18,8 @@
 1. 1일 1커밋
 2. 알고리즘 풀이
 
+#### 💡 프로젝트
+
 <!-- 통계를 나타냄 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonghoon-jung&show_icons=true&theme=radical)
 
