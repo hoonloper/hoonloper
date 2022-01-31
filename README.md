@@ -20,7 +20,8 @@
 3. DB 구조 이해
 4. Web Server, WAS 
 
-#### 💡 프로젝트
+### 💡 프로젝트
+- 에브리타임 클론코딩(Mini)
 
 <!-- 통계를 나타냄 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonghoon-jung&show_icons=true&theme=radical)
