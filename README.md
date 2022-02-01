@@ -21,7 +21,8 @@
 4. Web Server, WAS 
 
 ### 💡 프로젝트
-- 에브리타임 클론코딩(Mini)
+- 에브리타임 클론코딩(mini)
+- 
 
 <!-- 통계를 나타냄 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonghoon-jung&show_icons=true&theme=radical)
