@@ -15,7 +15,7 @@
 `JavaScript` `Node.js` `Express.js` 
 `Notion` 
 `Python` 
-`AWS EC2` `MySQL` `MariaDB` 
+`AWS EC2` `AWS RDS` `MySQL` `MariaDB` 
 
 #### 🎯 일일 목표[2022.01.10(월) 시작 !]
 1. 1일 1커밋
