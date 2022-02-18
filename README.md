@@ -30,7 +30,6 @@
 ### 프로젝트 💡
 - 에브리타임 클론코딩(mini)
 - 재능 나눔 플랫폼
-- 
 
 <!-- 통계를 나타냄 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonghoon-jung&show_icons=true&theme=radical)
