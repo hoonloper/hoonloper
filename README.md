@@ -24,12 +24,10 @@
 1. 1일 1커밋
 2. 알고리즘 풀이
 3. 개발 블로그 정리
-4. 깃허브 README 업데이트
-5. 포트폴리오 작성
 
 ### 프로젝트 💡
 - 에브리타임 클론코딩(mini)
-- 재능 나눔 플랫폼
+- 모해[Mohae]: 재능 나눔 플랫폼
 
 <!-- 통계를 나타냄 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonghoon-jung&show_icons=true&theme=radical)
