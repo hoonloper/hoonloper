@@ -12,7 +12,7 @@
 ## 안녕하세요 👋 Back_End 개발자 Hoonloper 입니다 😉
 ### 🌱 성장하는 개발자
 #### 🌈 Skills
-`JavaScript` `Node.js` `Express.js` `Notion` `Python` `AWS EC2` `AWS RDS` `MySQL` `MariaDB` 
+`JavaScript` `TypeScript` `Node.js` `Nest.js` `Fastify.js` `Express.js` `Notion` `Python` `AWS EC2` `AWS RDS` `MySQL` `MariaDB`
 
 #### 실수 😥
 2022.02.09(수) - 작업한 저장소를 삭제했더니 커밋도 같이 날아갔네요😭
