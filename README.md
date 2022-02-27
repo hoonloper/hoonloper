@@ -14,8 +14,6 @@
 #### 🌈 Skills
 `JavaScript` `TypeScript` `Node.js` `Nest.js` `Fastify.js` `Express.js` `Notion` `Python` `AWS EC2` `AWS RDS` `MySQL` `MariaDB`
 
-#### 실수 😥
-2022.02.09(수) - 작업한 저장소를 삭제했더니 커밋도 같이 날아갔네요😭
 
 #### 일일 목표 🎯[2022.01.10(월) ~ ]
 1. 1일 1커밋(잔디밭 만들기🤩)
@@ -25,6 +23,10 @@
 ### 프로젝트 💡
 - 에브리타임 클론코딩(mini)
 - 모해[Mohae]: 재능 기부(나눔) 플랫폼
+
+#### 실수 😥
+2022.02.09(수) - 작업한 저장소를 삭제했더니 커밋도 같이 날아갔네요😭
+
 
 <!-- 통계를 나타냄 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonghoon-jung&show_icons=true&theme=radical)
