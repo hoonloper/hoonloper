@@ -12,7 +12,20 @@
 ## 안녕하세요 👋 Back_End 개발자 Hoonloper 입니다 😉
 ### 🌱 성장하는 개발자
 #### 🌈 Skills
-`JavaScript` `TypeScript` `Node.js` `Nest.js` `Fastify.js` `Express.js` `Notion` `Python` `AWS EC2` `AWS RDS` `MySQL` `MariaDB`
+##### Languege
+`JavaScript` `TypeScript` 
+
+##### Server
+`Node.js` `Nest.js` `Fastify.js` `Express.js` 
+
+##### Tool
+`Notion` 
+
+##### Cloud
+`AWS EC2` `AWS RDS` 
+
+##### Database
+`MySQL` `MariaDB`
 
 
 #### 일일 목표 🎯[2022.01.10(월) ~ ]
