@@ -18,7 +18,7 @@
 ##### Server
 `Node.js` `Nest.js` `Fastify.js` `Express.js` 
 
-##### Tool
+##### 협업
 `Notion` 
 
 ##### Cloud
