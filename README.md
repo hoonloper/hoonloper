@@ -19,7 +19,7 @@
 `Node.js` `Nest.js` `Fastify.js` `Express.js` 
 
 ##### 협업
-`Notion` 
+`Notion` `Github` `Kakaowork`
 
 ##### Cloud
 `AWS EC2` `AWS RDS` 
