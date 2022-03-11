@@ -27,7 +27,6 @@
 ##### Database
 `MySQL` `MariaDB`
 
-
 #### 일일 목표 🎯[2022.01.10(월) ~ ]
 1. 1일 1커밋(잔디밭 만들기🤩)
 2. 알고리즘 풀이
@@ -40,7 +39,6 @@
 
 #### 실수 😥
 2022.02.09(수) - 작업한 저장소를 삭제했더니 커밋도 같이 날아갔어요😭
-
 
 <!-- 통계를 나타냄 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonghoon-jung&show_icons=true&theme=radical)
