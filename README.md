@@ -16,7 +16,10 @@
 `JavaScript` `TypeScript` 
 
 ##### Server
-`Node.js` `Nest.js` `Fastify.js` `Express.js` 
+`Node.js` `Nest.js` `Express.js` 
+
+##### Test
+`Jest`
 
 ##### 협업
 `Notion` `Github` `Kakaowork`
