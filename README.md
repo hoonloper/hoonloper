@@ -15,8 +15,7 @@
 ##### Languege
 `JavaScript` `TypeScript` 
 
-##### Server
-`Node.js` `Nest.js` `Express.js` 
+##### Server `Node.js` `Nest.js` `Express.js` 
 
 ##### Test
 `Jest`
