@@ -15,7 +15,8 @@
 ##### Languege
 <p align="left">  
   <img src="https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=white">
-</p>  
+</p>
+
 `TypeScript` 
 
 ##### Server 
@@ -23,6 +24,7 @@
   <img src= "https://img.shields.io/badge/Node-green?logo=node-dot-js&logoColor=white"/>
   <img src= "https://img.shields.io/badge/Express-blue?logo=express"/>
 </p>
+
 `Nest.js`
 
 ##### Test
@@ -41,7 +43,8 @@
 ##### Database
 <p align="left">  
   <img src="https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=white">
-</p> 
+</p>
+
 `MariaDB`
 
 #### 일일 목표 🎯[2022.01.10(월) ~ ]
