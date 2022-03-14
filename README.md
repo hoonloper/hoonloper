@@ -13,7 +13,13 @@
 ### 성장하는 개발자 🌱
 #### Skills 🌈
 ##### Languege
-`JavaScript` `TypeScript` 
+<p align="left">  
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=white">
+  <img src= "https://img.shields.io/badge/Node-green?logo=node-dot-js&logoColor=white"/>
+  <img src= "https://img.shields.io/badge/Express-blue?logo=express"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=white">
+</p>  
+`TypeScript` 
 
 ##### Server 
 `Node.js` `Nest.js` `Express.js` 
@@ -25,7 +31,11 @@
 `Notion` `Github` `Kakaowork`
 
 ##### Cloud
-`AWS EC2` `AWS RDS` 
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-EC2-red?logo=amazon-aws" />
+  <img src="https://img.shields.io/badge/AWS-RDS-red?logo=amazon-aws" />
+  <img src= "https://img.shields.io/badge/AWS-S3-red?logo=amazon-aws"/>
+</p>
 
 ##### Database
 `MySQL` `MariaDB`
