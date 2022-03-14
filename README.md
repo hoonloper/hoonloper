@@ -15,14 +15,15 @@
 ##### Languege
 <p align="left">  
   <img src="https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=white">
-  <img src= "https://img.shields.io/badge/Node-green?logo=node-dot-js&logoColor=white"/>
-  <img src= "https://img.shields.io/badge/Express-blue?logo=express"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=white">
 </p>  
 `TypeScript` 
 
 ##### Server 
-`Node.js` `Nest.js` `Express.js` 
+<p align="left">  
+  <img src= "https://img.shields.io/badge/Node-green?logo=node-dot-js&logoColor=white"/>
+  <img src= "https://img.shields.io/badge/Express-blue?logo=express"/>
+</p>
+`Nest.js`
 
 ##### Test
 `Jest`
@@ -38,7 +39,10 @@
 </p>
 
 ##### Database
-`MySQL` `MariaDB`
+<p align="left">  
+  <img src="https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=white">
+</p> 
+`MariaDB`
 
 #### 일일 목표 🎯[2022.01.10(월) ~ ]
 1. 1일 1커밋(잔디밭 만들기🤩)
