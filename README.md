@@ -31,7 +31,13 @@
 `Jest`
 
 ##### 협업
-`Notion` `Github` `Kakaowork`
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub-100000?logo=github" />
+  <img src= "https://img.shields.io/badge/Git-FF4500?logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KakaoWork-white?logo=kakao&logoColor=yellow"/>
+</p>
+
+`Notion`
 
 ##### Cloud
 <p align="left">
