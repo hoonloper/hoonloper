@@ -10,16 +10,16 @@
 
 # 👨‍💻 Backend Engineer 
 ## 안녕하세요 👋 Back_End 개발자 Hoonloper 입니다 😉
-### 성장하는 개발자 🌱
-#### Skills 🌈
-##### Languege
+## 성장하는 개발자 🌱
+### Skills 🌈
+### Languege
 <p align="left">  
   <img src="https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=white">
 </p>
 
 `TypeScript` 
 
-##### Server 
+### Server 
 <p align="left">  
   <img src= "https://img.shields.io/badge/Node-green?logo=node-dot-js&logoColor=white"/>
   <img src= "https://img.shields.io/badge/Express-blue?logo=express"/>
@@ -27,10 +27,10 @@
 
 `Nest.js`
 
-##### Test
+### Test
 `Jest`
 
-##### 협업
+### 협업
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub-100000?logo=github" />
   <img src= "https://img.shields.io/badge/Git-FF4500?logo=git&logoColor=white"/>
@@ -39,14 +39,14 @@
 
 `Notion`
 
-##### Cloud
+### Cloud
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-EC2-red?logo=amazon-aws" />
   <img src="https://img.shields.io/badge/AWS-RDS-red?logo=amazon-aws" />
   <img src= "https://img.shields.io/badge/AWS-S3-red?logo=amazon-aws"/>
 </p>
 
-##### Database
+### Database
 <p align="left">  
   <img src="https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=white">
 </p>
