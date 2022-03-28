@@ -63,9 +63,6 @@
 - 에브리타임 클론코딩(mini)
 - 모해[Mohae]: 재능 기부(나눔) 플랫폼
 
-#### 실수 😥
-2022.02.09(수) - 작업한 저장소를 삭제했더니 커밋도 같이 날아갔어요😭
-
 <!-- 통계를 나타냄 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonghoon-jung&show_icons=true&theme=radical)
 
