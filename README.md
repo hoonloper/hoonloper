@@ -30,7 +30,7 @@
 ### Test
 `Jest`
 
-### 협업
+### 협업 
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub-100000?logo=github" />
   <img src= "https://img.shields.io/badge/Git-FF4500?logo=git&logoColor=white"/>
