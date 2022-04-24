@@ -20,7 +20,7 @@
 
 `TypeScript` 
 
-### Server 
+### Server  
 <p align="left">  
   <img src= "https://img.shields.io/badge/Node-green?logo=node-dot-js&logoColor=white"/>
   <img src= "https://img.shields.io/badge/Express-blue?logo=express"/>
