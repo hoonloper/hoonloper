@@ -3,7 +3,7 @@
 </a>
 <a href="https://www.instagram.com/yh_j.630/">
   <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white" /> 
-</a>
+</a> 
 <a href="https://dehw.tistory.com/">
   <img align="center" src="https://img.shields.io/badge/Blog-FFCD00?logo=Kakao&logoColor=white" />
 </a>  
