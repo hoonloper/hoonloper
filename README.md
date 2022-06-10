@@ -8,9 +8,8 @@
   <img align="center" src="https://img.shields.io/badge/Blog-FFCD00?logo=Kakao&logoColor=white" />
 </a>  
 
-# 👨‍💻 Backend Engineer, Hoonloper 😉
-## 저에 대해 더 궁금하다면? 🕵️‍♂️  
-🔍 링크 주소
+# 안녕하세요! Back-End 개발자 Hoonloper입니다😉
+## 저에 대해 더 궁금하다면? 👉 ![정용훈 알아보기🔎](https://hoonloper.notion.site/Hello-I-m-Hoonloper-2a89b9e01ede427286d82fc896541524)
 
 ### 일일 목표 🎯[2022.01.10(월) ~ ]
 1. 1일 1커밋(잔디밭 만들기🤩) 
