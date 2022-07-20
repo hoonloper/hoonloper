@@ -10,18 +10,25 @@
 
 # 안녕하세요! Back-End 개발자 Hoonloper입니다😉
 ## 저에 대해 더 궁금하다면? 👉 [정용훈 알아보기🔎](https://hoonloper.notion.site/Hello-I-m-Hoonloper-2a89b9e01ede427286d82fc896541524)
-## Skills
+
 <div align="center">
-  ### Language & Enviroment
+  <h2> Skills
+</div>
+<div align="center">
+  <h4> Language & Enviroment
+</div>
+<div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
 </div>
-
+  
 <div align="center">
-  <h2> Dev-Ops
+  <h4> Dev-Ops
+</div>
+<div align="center">
   <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">
   <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white">
   <img src="https://img.shields.io/badge/AWS S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
@@ -32,15 +39,21 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
 </div>
 
+  
 <div align="center">
-  <h2> Database
+  <h4> Database
+</div>
+<div align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 </div>
 
+  
 <div align="center">
-  <h2> 협업
+  <h4> 협업
+</div>
+<div align="center">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
