@@ -11,14 +11,14 @@
 <div>
 
 <div align="center">
-  <h2> 안녕하세요! Back-End 개발자 Hoonloper입니다😉
-  <h3> 저에 대해 더 궁금하다면? 👉 
+  <h2> 안녕하세요! Back-End 개발자 Hoonloper입니다 😉 
+    자세히 👉
     <a href="[https://www.instagram.com/yh_j.630/](https://hoonloper.notion.site/Hello-I-m-Hoonloper-2a89b9e01ede427286d82fc896541524)">
-      <img align="center" src="https://img.shields.io/badge/Hoonloper 포트폴리오 🔎-000000?logo=Notion&logoColor=white" />  
+      <img align="center" src="https://img.shields.io/badge/Hoonloper 포트폴리오-000000?logo=Notion&logoColor=white" />  
     </a>
 </div>
 <div align="center">
-  <h2> Skills
+  <h2> 기술 스택 한눈에 보기 🧐
 </div>
 <div align="center">
   <h4> Language & Enviroment
