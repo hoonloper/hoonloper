@@ -61,22 +61,24 @@
 
 
 
-
-
-### 일일 목표 🎯[2022.01.10(월) ~ ]
-1. 1일 1커밋(잔디밭 만들기🤩) 
-2. 알고리즘, JS, TS, Nest.Js, Node.Js 공부
-3. 개발 블로그 정리! 
-
-<!-- 통계를 나타냄 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonghoon-jung&show_icons=true&theme=radical)
-
+<div>
+    <div>
+      ### 일일 목표 🎯[2022.01.10(월) ~ ]
+      1. 1일 1커밋(잔디밭 만들기🤩) 
+      2. 알고리즘, JS, TS, Nest.Js, Node.Js 공부
+      3. 개발 블로그 정리! 
+    </div>
+    <div>
+      <!-- 통계를 나타냄 -->
+      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonghoon-jung&show_icons=true&theme=radical)
+    </div>
+</div>
 
 <!-- 사용하는 언어를 나타냄 -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yonghoon-jung)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--
-**Yonghoon-Jung/Yonghoon-Jung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hoonloper/hoonloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
