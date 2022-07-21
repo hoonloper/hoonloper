@@ -69,7 +69,7 @@
 </div>
 <div>
   <!-- 통계를 나타냄 -->
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonghoon-jung&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoonloper&show_icons=true&theme=radical)
 </div>
 
 <!-- 사용하는 언어를 나타냄 -->
