@@ -67,10 +67,10 @@
   2. 알고리즘, JS, TS, Nest.Js, Node.Js 공부 <br>
   3. 개발 블로그 정리! 
 </div>
-<div>
-  <!-- 통계를 나타냄 -->
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoonloper&show_icons=true&theme=radical)
-</div>
+
+<!-- 통계를 나타냄 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoonloper&show_icons=true&theme=radical)
+
 
 <!-- 사용하는 언어를 나타냄 -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yonghoon-jung)](https://github.com/anuraghazra/github-readme-stats)-->
