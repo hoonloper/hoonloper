@@ -1,16 +1,19 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://komarev.com/ghpvc/?username=yonghoon-jung&color=blueviolet&" />
-</a>
-<a href="https://www.instagram.com/yh_j.630/">
-  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white" />  
-</a> 
-<a href="https://dehw.tistory.com/">
-  <img align="center" src="https://img.shields.io/badge/Blog-FFCD00?logo=Kakao&logoColor=white" />
-</a>  
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://komarev.com/ghpvc/?username=yonghoon-jung&color=blueviolet&" />
+  </a><br>
+  <a href="https://www.instagram.com/yh_j.630/">
+    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white" />  
+  </a><br>
+  <a href="https://dehw.tistory.com/">
+    <img align="center" src="https://img.shields.io/badge/Blog-FFCD00?logo=Kakao&logoColor=white" />
+  </a>
+<div>
 
-# 안녕하세요! Back-End 개발자 Hoonloper입니다😉
-## 저에 대해 더 궁금하다면? 👉 [정용훈 알아보기🔎](https://hoonloper.notion.site/Hello-I-m-Hoonloper-2a89b9e01ede427286d82fc896541524)
-
+<div align="center">
+  <h2> 안녕하세요! Back-End 개발자 Hoonloper입니다😉
+  <h3> 저에 대해 더 궁금하다면? 👉 [정용훈 알아보기🔎](https://hoonloper.notion.site/Hello-I-m-Hoonloper-2a89b9e01ede427286d82fc896541524)
+</div>
 <div align="center">
   <h2> Skills
 </div>
