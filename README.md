@@ -62,16 +62,14 @@
 
 
 <div>
-    <div>
-      ### 일일 목표 🎯[2022.01.10(월) ~ ]
-      1. 1일 1커밋(잔디밭 만들기🤩) 
-      2. 알고리즘, JS, TS, Nest.Js, Node.Js 공부
-      3. 개발 블로그 정리! 
-    </div>
-    <div>
-      <!-- 통계를 나타냄 -->
-      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonghoon-jung&show_icons=true&theme=radical)
-    </div>
+  ### 일일 목표 🎯[2022.01.10(월) ~ ] <br>
+  1. 1일 1커밋(잔디밭 만들기🤩) <br>
+  2. 알고리즘, JS, TS, Nest.Js, Node.Js 공부 <br>
+  3. 개발 블로그 정리! 
+</div>
+<div>
+  <!-- 통계를 나타냄 -->
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonghoon-jung&show_icons=true&theme=radical)
 </div>
 
 <!-- 사용하는 언어를 나타냄 -->
