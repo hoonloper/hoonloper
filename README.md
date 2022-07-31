@@ -11,14 +11,14 @@
 <div>
 
 <div align="center">
-  <h2> 안녕하세요! Back-End 개발자 Hoonloper입니다 😉 <br>
+  <h3> 안녕하세요! Back-End 개발자 Hoonloper입니다 😉 <br>
     상세내용 👉
     <a href="https://hoonloper.notion.site/Hello-I-m-Hoonloper-2a89b9e01ede427286d82fc896541524">
       <img align="center" src="https://img.shields.io/badge/Hoonloper 포트폴리오-000000?logo=Notion&logoColor=white" />  
     </a>
 </div>
 <div align="center">
-  <h2> 기술 스택 한눈에 보기 🧐
+  <h3> 기술 스택 한눈에 보기 🧐
 </div>
 <div align="center">
   <h4> Language & Enviroment
