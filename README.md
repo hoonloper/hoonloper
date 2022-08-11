@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=000000&height=300&section=header&text=Hoonloper's%20Github.&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hoonloper's%20Github.&fontSize=50&animation=twinkling" />
 </div>
 <div align="center">
   <a href="https://opgc.me/#/users/hoonloper" target="_blank"><img src="https://api.opgc.me/githubs/users/hoonloper/tag/?theme=basic" /></a>
