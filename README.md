@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=000000&height=300&section=header&text=Hoonloper's%20Github.&fontSize=70" />
+</div>
+<div align="center">
   <a href="https://opgc.me/#/users/hoonloper" target="_blank"><img src="https://api.opgc.me/githubs/users/hoonloper/tag/?theme=basic" /></a>
 </div>
 <div align="center">
@@ -78,7 +81,7 @@
 </div>
 
 <!-- 통계를 나타냄 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoonloper&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoonloper&show_icons=true&theme=radical&bg_color=FFFFFF)
 
 
 <!-- 사용하는 언어를 나타냄 -->
