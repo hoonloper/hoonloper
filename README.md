@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hoonloper's%20Github.&fontSize=50&animation=twinkling" />
 </div>
 <div align="center">
-  <a href="https://opgc.me/#/users/hoonloper" target="_blank"><img src="https://api.opgc.me/githubs/users/hoonloper/tag/?theme=basic" /></a>
-</div>
-<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://komarev.com/ghpvc/?username=yonghoon-jung&color=blueviolet&" />
   </a>
@@ -81,9 +78,14 @@
 </div>
 
 <!-- 통계를 나타냄 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoonloper&show_icons=true&theme=radical&bg_color=FFFFFF)
+<div align="center">
+  <a href="https://opgc.me/#/users/hoonloper" target="_blank"><img src="https://api.opgc.me/githubs/users/hoonloper/tag/?theme=basic" /></a>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=hoonloper&show_icons=true&title_color=000000&bg_color=FFFFFF&border_color=000000" />
+  <img height="150px" src="https://user-images.githubusercontent.com/78959175/184319807-064bf4d5-9678-46a3-8a92-8ac31c85f652.gif" />
+</div>
 
-
+<div align="center">
+</div>
 <!-- 사용하는 언어를 나타냄 -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yonghoon-jung)](https://github.com/anuraghazra/github-readme-stats)-->
 
