@@ -10,10 +10,6 @@
       </a>
     <div>
     <div>
-      <br>
-      <img height="150px" src="https://user-images.githubusercontent.com/78959175/184319807-064bf4d5-9678-46a3-8a92-8ac31c85f652.gif" />
-    </div>
-    <div>
       <h4> 포트폴리오 바로가기 👉
         <a href="https://hoonloper.notion.site/Hello-I-m-Hoonloper-2a89b9e01ede427286d82fc896541524">
           <img align="center" src="https://img.shields.io/badge/Hoonloper 포트폴리오-000000?logo=Notion&logoColor=white" />  
@@ -21,8 +17,18 @@
     </div>
   </div>
 </div>
+
+<details>
+  <summary><h3> 🎯 일일 목표</summary>
+  <div>
+    <h4> 1. 1일 1커밋 - 잔디밭 만들기🤩 <br>
+    2. 알고리즘, JS, TS, Nest.Js, Node.Js 공부 <br>
+    3. 개발 블로그 정리! 
+  </div>
+</details>
+
 <div align="center">
-  <h3> 핵심 기술 스택 한눈에 보기 🧐
+  <h3> 🔎 핵심 기술 스택 한눈에 보기
 </div>
 
 <div align="center">
@@ -56,10 +62,8 @@
 </div>
 
 <div>
-  <h3> 일일 목표 🎯[2022.01.10(월) ~ ] <br>
-  <h4> 1. 1일 1커밋(잔디밭 만들기🤩) <br>
-  2. 알고리즘, JS, TS, Nest.Js, Node.Js 공부 <br>
-  3. 개발 블로그 정리! 
+  <br>
+  <img height="250px" src="https://user-images.githubusercontent.com/78959175/184319807-064bf4d5-9678-46a3-8a92-8ac31c85f652.gif" />
 </div>
 
 <!-- 통계를 나타냄 -->
