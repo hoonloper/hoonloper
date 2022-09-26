@@ -10,9 +10,10 @@
       </a>
     <div>
     <div>
+      <!-- 포트폴리오 숨기기
       <a href="https://hoonloper.notion.site/Hello-I-m-Hoonloper-2a89b9e01ede427286d82fc896541524">
         <img align="center" src="https://img.shields.io/badge/Hoonloper 포트폴리오-000000?logo=Notion&logoColor=white" />  
-      </a>
+      </a>-->
       <a href="https://hoonloper.github.io/">
         <img align="center" src="https://img.shields.io/badge/Tech Blog-000000?logo=Bloglovin&logoColor=white" />
       </a>
