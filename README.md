@@ -57,9 +57,8 @@
   <img height="250px" src="https://user-images.githubusercontent.com/78959175/184319807-064bf4d5-9678-46a3-8a92-8ac31c85f652.gif" />
 </div>
 
-<!-- 통계를 나타냄 -->
 <div align="center">
-  <a href="https://opgc.me/#/users/hoonloper" target="_blank"><img src="https://api.opgc.me/githubs/users/hoonloper/tag/?theme=basic" /></a>
+  <a href="https://opgc.me/#/users/hoonloper" target="_blank"><img src="https://api.opgc.me/githubs/users/hoonloper/tag/?theme=basic" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=hoonloper&show_icons=true&title_color=000000&bg_color=FFFFFF&border_color=000000" />
 </div>
 
