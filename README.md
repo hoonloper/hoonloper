@@ -8,14 +8,13 @@
 
 ### 🛠️ 핵심 기술스택
 - JavaScript, TypeScript
-- Node, Nest, Express
+- Node, Nest, Express, Nuxt(Vue)
 - MySQL, MariaDB, MongoDB
-- Redis
-- Jest, Mocha, Chai
 
 #### ⚙️ 경험해본 기술들
-- React, Vue, Nuxt
 - Docker, AWS(EC2, RDS, S3)
+- Redis
+- Jest, Mocha, Chai
 - PostgreSQL
 
 <a href="https://opgc.me/#/users/hoonloper" target="_blank"><img src="https://api.opgc.me/githubs/users/hoonloper/tag/?theme=basic" />
