@@ -12,6 +12,7 @@
 - MySQL, MariaDB, MongoDB
 
 #### ⚙️ 경험해본 기술들
+- Java, Spring Boot, JPA
 - Docker, AWS(EC2, RDS, S3)
 - Redis
 - Jest, Mocha, Chai
