@@ -17,6 +17,3 @@
 - Redis
 - Jest, Mocha, Chai
 - PostgreSQL
-
-<a href="https://opgc.me/#/users/hoonloper" target="_blank"><img src="https://api.opgc.me/githubs/users/hoonloper/tag/?theme=basic" />
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=hoonloper&show_icons=true&title_color=000000&bg_color=FFFFFF&border_color=000000" />
