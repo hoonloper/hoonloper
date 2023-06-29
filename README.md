@@ -42,7 +42,7 @@ public class BackEnd {
 </details>
 
 <details open>
-<summary> 간단소개(JavaScript) </summary>
+<summary> 간단소개(TypeScript) </summary>
 <div markdown="1">       
 
 <img align="right" src="https://user-images.githubusercontent.com/78959175/184319807-064bf4d5-9678-46a3-8a92-8ac31c85f652.gif" alt="Programmation" width="220" />
