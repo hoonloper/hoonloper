@@ -32,8 +32,8 @@ public class BackEnd {
   }
 
   public static void main(String[] args) {
-    BackEnd yonghoon = new BackEnd();
-    yonghoon.introduce();
+    BackEnd hoonloper = new BackEnd();
+    hoonloper.introduce();
   }
 }
 ```
