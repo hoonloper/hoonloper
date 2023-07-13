@@ -10,8 +10,8 @@
 <br />
 <br />
 
-<details open>
-<summary> 간단소개(Java) </summary>
+<details>
+<summary>  <strong>👈 Introduction in Java</strong> </summary>
 <div markdown="1">    
   
 <img align="right" src="https://github.com/hoonloper/hoonloper/assets/78959175/3ffd7f10-01a5-447c-9aae-41dcdafab0f7" alt="Programmation" width="200" />
@@ -41,8 +41,8 @@ public class BackEnd {
 </div>
 </details>
 
-<details open>
-<summary> 간단소개(TypeScript) </summary>
+<details>
+<summary> <strong>👈 Introduction in TypeScript(JavaScript)</strong> </summary>
 <div markdown="1">       
 
 <img align="right" src="https://user-images.githubusercontent.com/78959175/184319807-064bf4d5-9678-46a3-8a92-8ac31c85f652.gif" alt="Programmation" width="220" />
@@ -69,3 +69,5 @@ getBackEndEngineer("hoonloper").introduce();
 
 </div>
 </details>
+
+![](./profile-3d-contrib/profile-gitblock.svg)
