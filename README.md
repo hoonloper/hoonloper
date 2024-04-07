@@ -6,22 +6,26 @@
 </a>
   
 <a href="https://blog.naver.com/electron98">
-  <img align="center" src="https://img.shields.io/badge/Tech Blog-000000?logo=Bloglovin&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/Tech Blog-03C75A?logo=Naver&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/%EC%9A%A9%ED%9B%88-%EC%A0%95-b8a538246/">
+  <img align="center" src="https://img.shields.io/badge/Linked In-0A66C2?logo=LinkedIn&logoColor=white" />
 </a>
 </div>
 
-<br />
 
-> 어제보다 성장한 오늘의 모습을, 오늘보다 성장할 내일의 동기부여로 활용하는 개발자
+### 💼 Career
+- **[Remember(Drama&Company)](https://rememberapp.co.kr/home#/) Server Engineer / _24.03 - ing_**
+- [TheVC](https://thevc.kr/) Full Stack Engineer / _22.10 - 24.02_
 
-#### 🛠️ Skill Set
-- Languages - **`Java` `JavaScript` `TypeScript`**
-- Frameworks - **`Spring boot` `Node` `Nuxt(Vue)`**
-- Databases - **`MySQL` `MongoDB`**
-- Infra - **`AWS` `GCP` `Docker`**
-- Collaboration tools - **`Git` `Github` `Jira` `Notion`**
+### 🛠️ Skill Set
+- **In use** - **`Ruby on Rails` `Kotlin` `Spring` `MySQL` `Redis` `Docker` `AWS`**
+- **Collaboration tools - `Git` `Github` `Jira` `Slack` `Notion`**
+- _Used - `Java` `JavaScript` `TypeScript` `Node` `Nuxt(Vue)` `MongoDB` `GCP`_
 
 
+<br>
 <pre>
 ._______________________________________________________________________________.
 |  .______        ___        ______  __  ___  _______ .__   __.  _______        |
