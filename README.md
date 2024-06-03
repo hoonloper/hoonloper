@@ -16,8 +16,8 @@
 
 
 ### 💼 Career
-- **[Remember(Drama&Company)](https://rememberapp.co.kr/home#/) Server Engineer / _24.03 - ing_**
-- [TheVC](https://thevc.kr/) Full Stack Engineer / _22.10 - 24.02_
+- **[Remember(Drama&Company)](https://corp.remember.co.kr/) Server Engineer / _24.03 - ing_**
+- _[TheVC](https://thevc.kr/) Full Stack Engineer / 22.10 - 24.02_
 
 ### 🛠️ Skill Set
 - **In use** - **`Ruby on Rails` `Kotlin` `Spring` `MySQL` `Redis` `Docker` `AWS`**
