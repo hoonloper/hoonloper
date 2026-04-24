@@ -15,7 +15,7 @@
 </div>
 
 
-### 💼 Career
+### 💼 Careers
 - **[Remember(리멤버앤컴퍼니)](https://corp.remember.co.kr/) Server Engineer / _24.03 - ing_**
 - _[TheVC](https://thevc.kr/) Full Stack Engineer / 22.10 - 24.02_
 
